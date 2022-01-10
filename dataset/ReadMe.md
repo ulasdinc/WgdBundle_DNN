@@ -1,1 +1,1 @@
-The dataset of digits used in the article.
+This folder provides the dataset of digits used in the article. The file is d_all_norm256.zip, which provides a .mat file where there are 1170 examples of 256x256 pixels of patterns of digits with different thicknesses, randomly scaled and rotated.
