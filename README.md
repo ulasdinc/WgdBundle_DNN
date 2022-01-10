@@ -2,7 +2,7 @@
 DOI: https://doi.org/10.1364/OE.446775
 
 This repository contains the dataset of digits, the Beam Propagation Method (BPM) code, and the U-net type convolutional neural network (CNN) underlying the results presented in
-the paper whose DOI link and title is given above. Please see the article for details of the study.
+the paper whose DOI link and the title are given above. Please see the article for details of the study.
 
 The dataset is created by rotating and scaling the layout of the digits we have patterned to be used as the physical imaging sample
 (Supplement 1, Section 9 of the article) in the experiments. This dataset can be found in the dataset folder. The file is d_all_norm256.zip.
