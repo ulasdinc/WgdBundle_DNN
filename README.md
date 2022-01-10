@@ -1,7 +1,7 @@
 # Photonic waveguide bundles using 3D laser writing and deep neural network image reconstruction
 DOI: https://doi.org/10.1364/OE.446775
 
-This repository contains the dataset of digits, the BPM code, and the U-net type CNN underlying the results presented in
+This repository contains the dataset of digits, the Beam Propagation Method (BPM) code, and the U-net type convolutional neural network (CNN) underlying the results presented in
 the paper whose DOI link and title is given above. Please see the article for details of the study.
 
 The dataset is created by rotating and scaling the layout of the digits we have patterned to be used as the physical imaging sample
