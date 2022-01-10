@@ -12,7 +12,7 @@ Please see the comments in the BPMforWgdBundles code for customizing your simula
 in the commented lines.
 
 Then, you can use Bundle_U_net code, which provides a U-net type convolutional neural network using Keras (details can be found in Supplement 1, Section 7 of the article).
-The propagated patterns are your inputs to be reconstructed. The ground-truths are the original input patterns you provided to BPM as inputs. You can train the network by providing these pairs. In the Bundle_U_net code, you will see optional sections for adding a synthetic background noise and removing the cladding light. Please see the explanations given in the commented lines of the code.
+The propagated patterns are your inputs to be reconstructed. The ground-truths are the original input patterns you provided to BPM as inputs. You can train the network by providing these pairs. In the Bundle_U_net code, you will see optional sections for adding a synthetic background noise and removing the cladding light. Please see the explanations given in the commented lines of the script.
 
 For further questions, please send an email to niyazi.dinc@epfl.ch
 
