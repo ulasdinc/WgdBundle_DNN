@@ -5,7 +5,7 @@ This repository contains the dataset of digits, the Beam Propagation Method (BPM
 the paper whose DOI link and the title are given above. Please see the article for details of the study.
 
 The dataset is created by rotating and scaling the layout of the digits we have patterned to be used as the physical imaging sample
-(Supplement 1, Section 9 of the article) in the experiments. This dataset can be found in the dataset folder. The file is d_all_norm256.zip.
+(Supplement 1, Section 9 of the article) in the experiments. This dataset can be found in the dataset folder. 
 
 You can use the Beam Propagation Method (BPMforWgdBundles) to propagate the given inputs. You can change the waveguide number and dimensions, the length of the bundle, etc. 
 Please see the comments in the BPMforWgdBundles code for customizing your simulation. The code is written in a easy to use manner by providing necessary explanations
